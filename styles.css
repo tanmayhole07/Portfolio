@@ -1,0 +1,178 @@
+
+
+h2,h3{
+  margin: 0;
+
+}
+
+.container-fluid{
+  padding: 5% 12%;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 20px;
+
+}
+.top{
+  background-color: #b1bed5;
+
+}
+nav{
+
+  position: absolute;
+}
+.image-head{
+  width: 100%;
+  position: absolute;
+}
+
+.tanmay-logo{
+  width: 25%;
+  border-radius: 50%;
+  position: absolute;
+  text-align: center;
+  left: 200px;
+  bottom: 10px;
+}
+.description{
+  font-family: 'Titillium Web', sans-serif;
+  color: #182952;
+  margin-top: 50px;
+}
+.head{
+  font-size: 25px;
+  background-color: #222831;
+  color: #f4f3f3;
+  margin: 0;
+padding-bottom: 3px;
+  padding-left: 10px;
+}
+
+.my-info{
+  margin: 0;
+
+  padding: 130px 0 130px 30px;
+  background-color: #becbff;
+}
+.head-push{
+  margin: 280px 0 0 0;
+
+}
+
+.back-colr{
+  padding: 0;
+  margin: 0;
+  background-color: #cb3737;
+}
+.ull{
+  list-style-type: none;
+  line-height: 25px;
+  font-size: 20px;
+  padding: 50px 0 50px 15px ;
+  margin: 0;
+  background-color: #ff8484;
+
+}
+.middle-container1{
+    background-color:#34a7b2;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 0;
+    border-style: inset;
+      border-color: coral;
+      border-width: 7px;
+}
+.middle-container{
+  padding: 5% 5%;
+  background-color:#34a7b2;
+  text-decoration: none;
+  border: 0;
+  border-style: inset;
+    border-color: coral;
+    border-width: 7px;
+}
+.padd{
+ padding: 40px 40px;
+}
+
+.check{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 25px;
+  color: #f4f3f3 ;
+  margin: 0;
+  background-color:#222831;
+  padding-left: 10px;
+
+}
+.deco{
+  text-decoration: none !important;
+  color: #f4f3f3;
+}
+
+.card-header{
+  background-color: #ffcccc;
+}
+.card-body{
+background-color: #ffefe0;
+}
+.col-lg-6{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}.padd{
+ padding: 40px 40px;
+}
+.testmonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+  text-align: center;
+
+}
+.carousel-item{
+  padding: 50px;
+  background-color: #ff8484;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 35px;
+
+  text-align: center;
+}
+.carousel-decp{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 30px;
+}
+#footer{
+  text-align: center;
+  padding: 3% 15%;
+  background-color: #a275e3;
+}
+.social-icon{
+  margin: 20px 10px;
+  color: #222831;
+
+}
+
+
+@media (max-width:1028px) {
+
+  .tanmay-logo{
+    display: none;
+  }
+  .description{
+    text-align: center;
+  }
+  .head{
+    font-size: 30px;
+
+    margin: 0;
+}
+  .head-push{
+    margin-top: 120px;
+}
+ .navbar-fixed-top{
+  position: absolute;
+  width: 80%;
+}
+ .padd{
+  padding: 30px 40px 20px 40px;
+ }
+
+
+}
